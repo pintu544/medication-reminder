@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 1.5em;
+  padding: 1em;
+  background-color: #f4f186;
+  border-radius: 1em;
+}
+
+.body {
+  text-align: left;
+  font-size: larger;
+}

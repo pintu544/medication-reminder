@@ -1,0 +1,19 @@
+.container {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: var(--color1);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.nav {
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+a {
+  text-decoration: none;
+  margin: 0.75em;
+}

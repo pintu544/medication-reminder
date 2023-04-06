@@ -1,0 +1,8 @@
+{
+  "short_name": "Mediminder",
+  "name": "Mediminder: Medication Reminder App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

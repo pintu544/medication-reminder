@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 1em;
+  padding-bottom: 6em;
+}
+
+.search {
+  margin: 1em 0;
+  padding: 0;
+}
+
+.input {
+  margin: 0.5em 0;
+  padding-left: 1.5em;
+  padding: 1em;
+  border: solid #404040;
+  border-radius: 1.1em;
+  font-size: large;
+}
+
+.card {
+  /* box-shadow property to create paper-like cards */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  margin: 1em;
+}
+
+.content {
+  padding: 1.5em;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.title {
+  text-align: center;
+}
+
+.body {
+  text-align: left;
+  font-size: large;
+}
+
+.button {
+  width: 100%;
+  margin: 1.25em 0;
+  background-color: none;
+  padding: 0.75em;
+  border: solid;
+  border-radius: 0.75em;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  color: #404040;
+  cursor: pointer;
+}
